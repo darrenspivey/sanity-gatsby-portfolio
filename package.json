@@ -17,6 +17,7 @@
     "lerna": "^3.22.1"
   },
   "dependencies": {
+    "gatsby-plugin-react-svg": "^3.0.0",
     "gatsby-theme-elements": "^1.0.7",
     "graphql": "^15.3.0"
   }
